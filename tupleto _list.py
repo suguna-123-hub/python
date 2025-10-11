@@ -1,0 +1,6 @@
+numbers=(10,20,5,4,16)
+print("tuple:",numbers)
+tuple=list(numbers)
+print("list:",tuple)
+sort=sorted(numbers)
+print("sorting order:",sort)
